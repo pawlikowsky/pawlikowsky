@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Independent tech consultant and T-shaped software engineer for hire (B2B) who specializes in creating REST backends with Django, Django REST Framework in public cloud (AWS/Azure/GCP). Working mainly with startups and greenfield projects. Knowing well startup ecosystem and culture. I like DevOps culture, Docker, Linux, technology bleeding edge, CI/CD, Linux, clean code, black t-shirts, tests, Visual Studio Code, and people who understand REST API and know how to use it :)
+
+Also I <3 Python
+
 <!--
 **pawlikowsky/pawlikowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
